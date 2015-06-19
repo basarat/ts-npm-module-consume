@@ -1,0 +1,26 @@
+{
+  "name": "ts-npm-module-consume",
+  "version": "1.0.0",
+  "description": "Consume a TypeScript npm module",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/ts-npm-module-consume.git"
+  },
+  "keywords": [
+    "typescript",
+    "atom"
+  ],
+  "author": "basaratali@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/ts-npm-module-consume/issues"
+  },
+  "homepage": "https://github.com/basarat/ts-npm-module-consume#readme",
+  "dependencies": {
+    "ts-npm-module": "^1.0.1"
+  }
+}
