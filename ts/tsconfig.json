@@ -16,6 +16,8 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./index.ts"
+        "./index.ts",
+        "./typings/node/node.d.ts",
+        "./typings/tsd.d.ts"
     ]
 }
