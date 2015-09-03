@@ -1,4 +1,4 @@
-var root = require("ts-npm-module");
+var root = require("ts-npm-module/js");
 var foo = root.foo;
 var Bar = root.Bar;
 var bas = root.bas;

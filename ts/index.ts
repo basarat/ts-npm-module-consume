@@ -1,5 +1,5 @@
 // Use from main
-import * as root from "ts-npm-module";
+import * as root from "ts-npm-module/js";
 
 var foo = root.foo;
 var Bar = root.Bar;
